@@ -1,2 +1,2 @@
 # Excel_Insight_Hub
-A collection of data analysis using MS excel
+A collection of data analysis using MS Excel
